@@ -450,10 +450,6 @@ span{
         background-color: #39DB4A;
     }
 
-    .footer-brand{
-        width: 33%;
-    }
-
     .footer-icons{
         display: flex;
         flex-wrap: wrap;
@@ -481,6 +477,10 @@ span{
 
     .image-width{
         width: 100%;
+    }
+
+    .footer-brand{
+        width: 33%;
     }
 
 }
